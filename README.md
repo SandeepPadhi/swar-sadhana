@@ -51,5 +51,55 @@ Custom harmonium sound synthesis featuring:
 - Music teachers for classroom training
 - Self-learners exploring Hindustani/Carnatic music
 
-## Installation & Usage
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn
+
+### Installation
 ```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/swar-trainer.git
+
+# Navigate to directory
+cd swar-trainer
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+```
+
+Open http://localhost:5173 in your browser.
+
+### Build for Production
+```bash
+npm run build
+npm run preview
+```
+
+## 👨‍💻 Author
+
+**Sandeep Padhi**
+
+Developed with ♥ for the love of music
+
+
+## 🙏 Acknowledgments
+
+- Indian Classical Music tradition
+- All the music teachers and students who inspired this tool
+- Open source community
+
+## 📧 Contact
+
+For questions, suggestions, or feedback, please open an issue on GitHub.
+
+---
+
+**⭐ If you find this tool helpful, please consider giving it a star!**
+
+*Master the art of Indian Classical Music • Practice • Learn • Excel*
